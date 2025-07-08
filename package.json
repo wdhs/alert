@@ -54,7 +54,6 @@
     "@grafana/runtime": "7.5.10",
     "@grafana/ui": "7.5.10",
     "@pvm-ui/pvm-ui-components": "^1.0.18",
-    "@types/prismjs": "1.16.6",
     "@types/react-router-dom": "5.1.8",
     "@types/styled-components": "5.1.12",
     "antd": "4.24.12",
@@ -76,6 +75,16 @@
   },
   "resolutions": {
     "tinycolor2": "1.4.2",
-    "babel-plugin-angularjs-annotate": "0.8.2"
+    "babel-plugin-angularjs-annotate": "0.8.2",
+    "uplot": "1.6.31",
+    "moment": "2.29.4",
+    "@babel/runtime": "7.26.10",
+    "xss": "1.0.10",
+    "d3-color": "3.1.0",
+    "marked": "4.0.10",
+    "@babel/traverse": "7.23.2",
+    "cross-spawn": "6.0.6",
+    "@babel/runtime-corejs3": "7.26.10",
+    "path-to-regexp": "1.9.0"
   }
 }
